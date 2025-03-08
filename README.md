@@ -22,7 +22,7 @@ bun dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-DEMO VIDEO [https://www.loom.com/share/f87a8e161c474447bdad295a8c36a6fd?sid=af161a79-2abe-47df-bd1f-b73bb46dc388]
+DEMO VIDEO [https://www.loom.com/share/af6fe493f457421fa7b930fad221a02e?sid=9884290f-0ce6-4214-97dd-3555853bf5de]
 
 # Hint
 
